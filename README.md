@@ -3,7 +3,7 @@
 <br>
 
 - 🌆 I live in **Austin, Texas**
-- 🎓  **Computer Science (CIS)** at Austin Community College
+- 🎓  **Computer Science (CIS)** major at Austin Community College
 - 🎯  I specialize in **Front-end web development**
 
 <br>
