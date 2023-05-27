@@ -4,7 +4,7 @@
 
 - 🌆 I live in **Austin, Texas**
 - 🎓  **Computer Science (CIS)** major at Austin Community College
-- 🎯  My main area of interest is **Front-end web development**
+- 🎯  My main area of interest is **Front-end web development** with **React.js** ⚛️
 
 <br>
 
