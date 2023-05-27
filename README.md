@@ -8,7 +8,9 @@
 
 <br>
 
-📫 **Email**: kenneth4832@gmail.com
+💼 **Portfolio**: [Link](https://kenneth-o-portfolio.netlify.app)
+
+📧 **Email**: kenneth4832@gmail.com
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kenneth-onuorah-64640419b/)
 
