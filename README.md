@@ -19,7 +19,7 @@
        <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/html.png" height="100px"/>
     </td>
     <td>
-      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/css.png" height="76px"/>
+      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/css.png" height="95px"/>
     </td>
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1920px-Sass_Logo_Color.svg.png" height="75px"/>
