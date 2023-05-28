@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>
-       <img src="https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_516/images/html/html5.png" height="100px"/>
+       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/html.png" height="100px"/>
     </td>
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" height="76px"/>
