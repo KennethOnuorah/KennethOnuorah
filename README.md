@@ -3,7 +3,7 @@
 <br>
 
 - 🌆 I live in **Austin, Texas**
-- 🎓 Graduated from Austin Community College with an associate's degree in **computer science**
+- 🎓 Graduated from **Austin Community College** with an associate's degree in **computer science**
 - 🎯 My main area of interest is **Front-end web development**
 
 <table align="left">
