@@ -19,13 +19,13 @@
        <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/html.png" height="100px"/>
     </td>
     <td>
-      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/css.png" height="120px"/>
+      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/css.png" height="130px"/>
     </td>
     <td>
       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/sass.png" height="120px"/>
     </td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" height="75px"/>
+      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/js.png" height="120px"/>
     </td>
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="75px"/>
