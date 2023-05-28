@@ -28,7 +28,7 @@
       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/js.png" height="120px"/>
     </td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="75px"/>
+      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/py.png" height="105px"/>
     </td>
   </tr>
 </table>
