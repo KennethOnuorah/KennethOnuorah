@@ -16,25 +16,23 @@
   </tr>
   <tr>
     <td>
-       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/html.png" height="100px"/>
+       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/html.png" height="80px"/>
     </td>
     <td>
-      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/css.png" height="130px"/>
+      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/css.png" height="100px"/>
     </td>
     <td>
-      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/sass.png" height="120px"/>
+      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/sass.png" height="90px"/>
     </td>
     <td>
-      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/js.png" height="120px"/>
+      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/js.png" height="90px"/>
     </td>
     <td>
-      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/py.png" height="105px"/>
+      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/py.png" height="85px"/>
     </td>
   </tr>
 </table>
 
-<br>
-<br>
 <br>
 <br>
 <br>
