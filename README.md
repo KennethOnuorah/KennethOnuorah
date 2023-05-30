@@ -42,7 +42,7 @@
 <br/>
 <table align="left">
   <tr>
-    <td colspan="3" align="center">
+    <td colspan="4" align="center">
       <strong>
         Technologies used
       </strong>
@@ -54,6 +54,9 @@
     </td>
     <td>
       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/redux.png" height="90px"/>
+    </td>
+    <td>
+      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/vite.png" height="90px"/>
     </td>
     <td>
       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/git.png" height="75px"/>
