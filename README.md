@@ -32,8 +32,35 @@
     </td>
   </tr>
 </table>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<table align="left">
+  <tr>
+    <td colspan="3" align="center">
+      <strong>
+        Technologies used
+      </strong>
+    </td>
+  </tr>
+  <tr>
+    <td>
+       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/react.png" height="80px"/>
+    </td>
+    <td>
+      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/redux.png" height="100px"/>
+    </td>
+    <td>
+      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/git.png" height="90px"/>
+    </td>
+  </tr>
+</table>
 
-<br>
 <br>
 <br>
 <br>
