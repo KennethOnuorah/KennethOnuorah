@@ -61,14 +61,15 @@
   </tr>
 </table>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 💼 **Portfolio**: [Link](https://kenneth-o-portfolio.netlify.app)
