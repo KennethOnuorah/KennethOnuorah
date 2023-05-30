@@ -53,10 +53,10 @@
        <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/react.png" height="80px"/>
     </td>
     <td>
-      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/redux.png" height="100px"/>
+      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/redux.png" height="90px"/>
     </td>
     <td>
-      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/git.png" height="90px"/>
+      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/git.png" height="75px"/>
     </td>
   </tr>
 </table>
