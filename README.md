@@ -8,9 +8,9 @@
 
 <table align="left">
   <tr>
-    <td colspan="5" align="center">
+    <td colspan="6" align="center">
       <strong>
-        Languages used
+        Languages Used
       </strong>
     </td>
   </tr>
@@ -26,6 +26,9 @@
     </td>
     <td>
       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/js.png" height="90px"/>
+    </td>
+    <td>
+      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/ts.png" height="70px"/>
     </td>
     <td>
       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/py.png" height="85px"/>
@@ -44,7 +47,7 @@
   <tr>
     <td colspan="4" align="center">
       <strong>
-        Technologies used
+        Technologies Used
       </strong>
     </td>
   </tr>
