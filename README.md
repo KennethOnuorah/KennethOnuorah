@@ -4,7 +4,7 @@
 
 - 🌆 I live in **Austin, Texas**
 - 🎓 Graduated from **Austin Community College** with an Associate's Degree in **Computer Science**
-- 🎯 My main area of interest is **Front-end web development**
+- 🎯 My main area of interest is **Frontend/UI web development**
 
 <table align="center">
   <tr>
