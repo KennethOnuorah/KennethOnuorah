@@ -3,10 +3,10 @@
 <br>
 
 - 🌆 I live in **Austin, Texas**
-- 🎓 Graduated from **Austin Community College** with an associate's degree in **computer science**
+- 🎓 Graduated from **Austin Community College** with an Associate's Degree in **Computer Science**
 - 🎯 My main area of interest is **Front-end web development**
 
-<table align="left">
+<table align="center">
   <tr>
     <td colspan="6" align="center">
       <strong>
@@ -35,15 +35,7 @@
     </td>
   </tr>
 </table>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<table align="left">
+<table align="center">
   <tr>
     <td colspan="4" align="center">
       <strong>
@@ -66,17 +58,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 💼 **Portfolio**: [Link](https://kenneth-o-portfolio.netlify.app)
 
