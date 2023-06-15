@@ -39,7 +39,7 @@
   <tr>
     <td colspan="4" align="center">
       <strong>
-        Technologies Used
+        Technologies/Tools Used
       </strong>
     </td>
   </tr>
