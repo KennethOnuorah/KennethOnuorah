@@ -37,7 +37,7 @@
 </table>
 <table align="center">
   <tr>
-    <td colspan="4" align="center">
+    <td colspan="5" align="center">
       <strong>
         Technologies/Tools Used
       </strong>
@@ -55,6 +55,9 @@
     </td>
     <td>
       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/git.png" height="75px"/>
+    </td>
+    <td>
+      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/fig.png" height="75px"/>
     </td>
   </tr>
 </table>
