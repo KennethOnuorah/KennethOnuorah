@@ -37,7 +37,7 @@
 </table>
 <table align="center">
   <tr>
-    <td colspan="5" align="center">
+    <td colspan="6" align="center">
       <strong>
         Technologies/Tools Used
       </strong>
@@ -46,6 +46,9 @@
   <tr>
     <td>
        <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/react.png" height="80px"/>
+    </td>
+    <td>
+       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/next.png" height="75px"/>
     </td>
     <td>
       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/redux.png" height="90px"/>
