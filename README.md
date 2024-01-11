@@ -10,7 +10,7 @@
   <tr>
     <td colspan="6" align="center">
       <strong>
-        Languages Used
+        Languages Learned
       </strong>
     </td>
   </tr>
@@ -39,7 +39,7 @@
   <tr>
     <td colspan="6" align="center">
       <strong>
-        Technologies/Tools Used
+        Tools Used
       </strong>
     </td>
   </tr>
