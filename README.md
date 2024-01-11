@@ -2,9 +2,9 @@
 
 <br>
 
-- 🌆 I live in **Austin, Texas**
+- 🌆 I am based in **Austin, Texas**
 - 🎓 Graduated from **Austin Community College** with an Associate's Degree in **Computer Science**
-- 🎯 My main area of interest is **Frontend/UI development**
+- 🎯 My main area of interest is **Frontend/UI and Software development**
 
 <table align="center">
   <tr>
