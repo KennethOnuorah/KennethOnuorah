@@ -4,7 +4,7 @@
 
 - 🌆 I am based in **Austin, Texas**
 - 🎓 Graduated from **Austin Community College** with an Associate's Degree in **Computer Science**
-- 🎯 My main area of interest is **Frontend/UI and Software development**
+- 🎯 My main area of interest is **Frontend/UI and Software Development**
 
 <table align="center">
   <tr>
