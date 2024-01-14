@@ -68,7 +68,8 @@
   </tr>
 </table>
 
-💼 **Portfolio**: [Link](https://kenneth-o-portfolio.netlify.app)
+### Portfolio 💼
+[Link](https://kenneth-o-portfolio.netlify.app)
 
 ### Contact Me ☎️
 
