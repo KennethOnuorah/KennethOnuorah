@@ -70,7 +70,8 @@
 
 💼 **Portfolio**: [Link](https://kenneth-o-portfolio.netlify.app)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&color=red)](mailto:kenneth4832@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kenneth-onuorah-64640419b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kenneth%20Onuorah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenneth-onuorah-64640419b/)](https://www.linkedin.com/in/kenneth-onuorah-64640419b/)
+[![Gmail Badge](https://img.shields.io/badge/-kenneth4832@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kenneth4832@gmail.com)](mailto:kenneth4832@gmail.com)
 
 
 <!--
