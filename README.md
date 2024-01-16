@@ -45,27 +45,27 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/facebook/react">
+      <a href="https://github.com/facebook/react" target="_blank">
        <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/react.png" height="80px"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/vercel/next.js">
+      <a href="https://github.com/vercel/next.js" target="_blank">
        <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/next.png" height="75px"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/tailwindlabs/tailwindcss">
+      <a href="https://github.com/tailwindlabs/tailwindcss" target="_blank">
         <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/tcss.png" height="56px"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/reduxjs/redux">
+      <a href="https://github.com/reduxjs/redux" target="_blank">
         <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/redux.png" height="90px"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/vitejs/vite">
+      <a href="https://github.com/vitejs/vite" target="_blank">
         <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/vite.png" height="90px"/>
       </a>
     </td>
@@ -73,7 +73,9 @@
       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/git.png" height="75px"/>
     </td>
     <td>
-      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/fig.png" height="75px"/>
+      <a href="https://figma.com" target="_blank">
+        <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/fig.png" height="75px"/>
+      </a>
     </td>
   </tr>
 </table>
