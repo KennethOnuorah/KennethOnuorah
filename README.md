@@ -80,9 +80,6 @@
   </tr>
 </table>
 
-### Portfolio 💼
-[Link](https://kenneth-o-portfolio.netlify.app)
-
 ### Contact Me ☎️
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kenneth%20Onuorah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenneth-onuorah-64640419b/)](https://www.linkedin.com/in/kenneth-onuorah-64640419b/)
