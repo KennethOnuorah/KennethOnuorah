@@ -1,5 +1,4 @@
 <h1 align="left">Hi, I'm Kenneth Onuorah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
 <br>
 
 - 🌆 I am based in **Austin, Texas**
@@ -80,8 +79,14 @@
   </tr>
 </table>
 
-### Contact Me ☎️
+<h1 align="center">Portfolio</h1>
+<p align="center">
+  <a href="https://kennethonuorah.vercel.app" target="_blank">
+    <img src="https://github.com/KennethOnuorah/portfolio-v2/blob/master/images/cross_platform.svg" width="750px"/>
+  </a>
+</p>
 
+### Contact Me ☎️
 [![Linkedin Badge](https://img.shields.io/badge/-Kenneth%20Onuorah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenneth-onuorah-64640419b/)](https://www.linkedin.com/in/kenneth-onuorah-64640419b/)
 [![Gmail Badge](https://img.shields.io/badge/-kenneth4832@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kenneth4832@gmail.com)](mailto:kenneth4832@gmail.com)
 
