@@ -82,10 +82,16 @@
   <img src="https://github.com/KennethOnuorah/portfolio-v2/blob/master/images/cross_platform.svg" width="700px"/>
 </p>
 
-### Contact Me ☎️
-[![Linkedin Badge](https://img.shields.io/badge/-Kenneth%20Onuorah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenneth-onuorah-64640419b/)](https://www.linkedin.com/in/kenneth-onuorah-64640419b/)
-[![Gmail Badge](https://img.shields.io/badge/-kenneth4832@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kenneth4832@gmail.com)](mailto:kenneth4832@gmail.com)
+<h1 align="center">Contact Me ☎️</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kenneth-onuorah-64640419b/">
+    <img src="https://img.shields.io/badge/-Kenneth%20Onuorah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenneth-onuorah-64640419b/"/>
+  </a>
+  <a href="mailto:kenneth4832@gmail.com">
+    <img src="https://img.shields.io/badge/-kenneth4832@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kenneth4832@gmail.com"/>
+  </a>
+</p>
 
 <!--
 **KennethOnuorah/KennethOnuorah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
