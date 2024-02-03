@@ -77,10 +77,14 @@
   </tr>
 </table>
 
-<h1 align="center"><a href="https://kennethonuorah.vercel.app">Portfolio 💼</a></h1>
-<p align="center">
+<h1 align="center">Portfolio 💼</h1>
+<h3 align="center">
+  <a href="https://kennethonuorah.vercel.app">Visit Here</a>
+</h3>
+
+<!-- <p align="center">
   <img src="https://github.com/KennethOnuorah/portfolio-v2/blob/master/images/cross_platform.svg" width="700px"/>
-</p>
+</p> -->
 
 <h1 align="center">Contact Me ☎️</h1>
 
