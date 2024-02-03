@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kenneth Onuorah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <div align="center">
-  <p>I am based in <strong>Austin, Texas</strong>. I graduated from <strong>Austin Community College</strong> with an Associate's Degree in <strong>Computer Science</strong>. My main area of interest is <strong>Frontend/UI and Software Development</strong></p>
+  <p>I am based in <strong>Austin, Texas</strong>. I graduated from <strong>Austin Community College</strong> with an Associate's Degree in <strong>Computer Science</strong>. My main area of interest is <strong>Frontend/UI and Software Development</strong>.</p>
 </div>
 
 <table align="center">
@@ -78,6 +78,9 @@
 </table>
 
 <h1 align="center"><a href="https://kennethonuorah.vercel.app">Portfolio 💼</a></h1>
+<p align="center">
+  <img src="https://github.com/KennethOnuorah/portfolio-v2/blob/master/images/cross_platform.svg" width="700px"/>
+</p>
 
 ### Contact Me ☎️
 [![Linkedin Badge](https://img.shields.io/badge/-Kenneth%20Onuorah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenneth-onuorah-64640419b/)](https://www.linkedin.com/in/kenneth-onuorah-64640419b/)
