@@ -33,91 +33,10 @@
   </div>
 </div>
 
-<!---
-<table align="center">
-  <tr>
-    <td colspan="6" align="center">
-      <strong>
-        Languages Learned
-      </strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/html.png" height="80px"/>
-    </td>
-    <td>
-      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/css.png" height="100px"/>
-    </td>
-    <td>
-      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/sass.png" height="90px"/>
-    </td>
-    <td>
-      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/ts.png" height="70px"/>
-    </td>
-    <td>
-      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/js.png" height="90px"/>
-    </td>
-    <td>
-      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/py.png" height="85px"/>
-    </td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-    <td colspan="7" align="center">
-      <strong>
-        Tools Used
-      </strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/facebook/react" target="_blank">
-       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/react.png" height="80px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/vercel/next.js" target="_blank">
-       <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/next.png" height="75px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/tailwindlabs/tailwindcss" target="_blank">
-        <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/tcss.png" height="56px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/reduxjs/redux" target="_blank">
-        <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/redux.png" height="90px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/vitejs/vite" target="_blank">
-        <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/vite.png" height="90px"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/git.png" height="75px"/>
-    </td>
-    <td>
-      <a href="https://figma.com" target="_blank">
-        <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/fig.png" height="75px"/>
-      </a>
-    </td>
-  </tr>
-</table>
--->
-
 <h1 align="center">Portfolio 💼</h1>
 <h3 align="center">
   <a href="https://kennethonuorah.vercel.app">Visit Here</a>
 </h3>
-
-
-<!-- <p align="center">
-  <img src="https://github.com/KennethOnuorah/portfolio-v2/blob/master/images/cross_platform.svg" width="700px"/>
-</p> -->
 
 <h1 align="center">Contact Me ☎️</h1>
 
