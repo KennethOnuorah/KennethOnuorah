@@ -3,6 +3,37 @@
   <p>I live in <strong>Austin, Texas</strong>. I graduated from <strong>Austin Community College</strong> with an Associate's Degree in <strong>Computer Science</strong>. My main area of interest is <strong>Frontend/UI and Software Development</strong>.</p>
 </div>
 
+<div align="center">
+  <h3>
+    <strong>
+      Languages Learned
+    </strong>
+  </h3>
+  <div>
+    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/html.png" height="80px"/>
+    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/css.png" height="100px"/>
+    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/sass.png" height="90px"/>
+    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/ts.png" height="70px"/>
+    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/js.png" height="90px"/>
+    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/py.png" height="85px"/>
+  </div>
+  <h3>
+    <strong>
+      Tools Used
+    </strong>
+  </h3>
+  <div>
+    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/react.png" height="80px"/>
+    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/next.png" height="75px"/>
+    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/tcss.png" height="56px"/>
+    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/redux.png" height="90px"/>
+    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/vite.png" height="90px"/>
+    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/git.png" height="75px"/>
+    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/fig.png" height="75px"/>
+  </div>
+</div>
+
+<!---
 <table align="center">
   <tr>
     <td colspan="6" align="center">
@@ -76,11 +107,13 @@
     </td>
   </tr>
 </table>
+-->
 
 <h1 align="center">Portfolio 💼</h1>
 <h3 align="center">
   <a href="https://kennethonuorah.vercel.app">Visit Here</a>
 </h3>
+
 
 <!-- <p align="center">
   <img src="https://github.com/KennethOnuorah/portfolio-v2/blob/master/images/cross_platform.svg" width="700px"/>
