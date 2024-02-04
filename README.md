@@ -6,7 +6,7 @@
 <div align="center">
   <h3>
     <strong>
-      Languages Learned
+      Languages Learned ⚙️
     </strong>
   </h3>
   <div>
@@ -19,7 +19,7 @@
   </div>
   <h3>
     <strong>
-      Tools Used
+      Tools Used 🛠️
     </strong>
   </h3>
   <div>
