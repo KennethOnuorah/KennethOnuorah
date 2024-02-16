@@ -6,32 +6,31 @@
 <div align="center">
   <h3>
     <strong>
-      Languages Learned ⚙️
+      Languages & Tools ⚙️ 🛠️
     </strong>
   </h3>
   <div>
-    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/html.png" height="80px"/>
-    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/css.png" height="100px"/>
-    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/sass.png" height="90px"/>
-    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/ts.png" height="70px"/>
-    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/js.png" height="90px"/>
-    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/py.png" height="85px"/>
-  </div>
-  <h3>
-    <strong>
-      Tools Used 🛠️
-    </strong>
-  </h3>
-  <div>
-    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/react.png" height="80px"/>
-    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/next.png" height="75px"/>
-    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/tcss.png" height="56px"/>
-    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/redux.png" height="90px"/>
-    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/vite.png" height="90px"/>
-    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/git.png" height="75px"/>
-    <img src="https://github.com/KennethOnuorah/KennethOnuorah/blob/main/images/fig.png" height="75px"/>
-  </div>
-</div>
+<!--     https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg -->
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="8%"/>
+  <br/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="8%"/>
+  <br/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Light.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elasticsearch-Dark.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="8%"/>
 
 <h1 align="center">Portfolio 💼</h1>
 <h3 align="center">
