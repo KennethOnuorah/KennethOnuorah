@@ -18,10 +18,10 @@
   <br/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="8%"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" width="8%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="8%"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="8%"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="8%"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="8%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="8%"/>
   <br/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="8%"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="8%"/>
