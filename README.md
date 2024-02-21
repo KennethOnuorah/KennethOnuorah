@@ -31,7 +31,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elasticsearch-Dark.svg" width="8%"/>
   <br/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="8%"/>
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="8%"/>
+<!--   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="8%"/> -->
 </div>
 
 <h1 align="center">Portfolio 💼</h1>
