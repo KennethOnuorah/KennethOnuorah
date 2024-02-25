@@ -6,7 +6,7 @@
 <div align="center">
   <h3>
     <strong>
-      Languages & Tools ⚙️ 🛠️
+      Languages & Technologies ⚙️ 🛠️
     </strong>
   </h3>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="8%"/>
@@ -31,7 +31,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elasticsearch-Dark.svg" width="8%"/>
   <br/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="8%"/>
-<!--   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="8%"/> -->
 </div>
 
 <h1 align="center">Portfolio 💼</h1>
@@ -39,7 +38,7 @@
   <a href="https://kennethonuorah.vercel.app">Visit Here</a>
 </h3>
 
-<h1 align="center">Contact Me ☎️</h1>
+<h1 align="center">Contact Me 📧</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kenneth-onuorah-64640419b/">
