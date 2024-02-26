@@ -8,25 +8,25 @@
 
 <h2>Languages & Technologies ⚙️ 🛠️</h2>
 <div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Light.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elasticsearch-Dark.svg" width="5%"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="5%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Light.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elasticsearch-Dark.svg" width="7%"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="7%"/>
 </div>
 
 <h2>Portfolio 💼</h2>
