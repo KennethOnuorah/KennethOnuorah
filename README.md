@@ -3,7 +3,7 @@
   I live in <strong>Austin, Texas</strong>. I graduated from <strong>Austin Community College</strong> with an Associate's Degree in <strong>Computer Science</strong>. My main area of interest is <strong>Frontend/UI and Software Development</strong>.
 </p>
 
-- 🔭 I’m currently working on: [my blog](https://github.com/KennethOnuorah/next-blog-website) and [bookstore](https://github.com/KennethOnuorah/bookworm) websites 
+- 🔭 I’m currently working on: my [blog](https://github.com/KennethOnuorah/next-blog-website) and [bookstore](https://github.com/KennethOnuorah/bookworm) websites 
 - 🌱 I’m currently learning: PostgreSQL 🐘
 
 <h2>Languages & Technologies ⚙️ 🛠️</h2>
