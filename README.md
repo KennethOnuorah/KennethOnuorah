@@ -34,6 +34,8 @@
   <a href="https://kennethonuorah.vercel.app">Visit Here</a>
 </p>
 
+![Vercel](https://vercelbadge.vercel.app/api/KennethOnuorah/portfolio-v2?style=flat-square)
+
 <h2>Contact Me 📧</h2>
 
 <p>
