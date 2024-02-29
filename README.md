@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 I’m currently working on: my [blog](https://github.com/KennethOnuorah/next-blog-website) and [bookstore](https://github.com/KennethOnuorah/bookworm) websites 
-- 🌱 I’m currently learning: Prisma 📊 & PostgreSQL 🐘
+- 🌱 I’m currently learning: Prisma △ & PostgreSQL 🐘
 
 <h2>Languages & Technologies ⚙️ 🛠️</h2>
 <div>
