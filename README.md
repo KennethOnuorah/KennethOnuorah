@@ -1,4 +1,4 @@
-<h2>Hi, I'm Kenneth Onuorah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px"></h2>
+<h2>Hi, I'm Kenneth Onuorah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h2>
 <p>
   I live in <strong>Austin, Texas</strong>. I graduated from <strong>Austin Community College</strong> with an Associate's Degree in <strong>Computer Science</strong>. My main area of interest is <strong>Frontend/UI and Software Development</strong>.
 </p>
