@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 I’m currently working on: my [blog](https://github.com/KennethOnuorah/next-blog-website) and [bookstore](https://github.com/KennethOnuorah/bookworm) websites 
-- 🌱 I’m currently learning: Prisma △, PostgreSQL 🐘, and Jest 🤡
+- 🌱 I’m currently learning: Prisma △ and Jest 🤡
 
 <h2>Languages & Technologies ⚙️ 🛠️</h2>
 <div>
@@ -27,6 +27,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="55px"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="55px"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elasticsearch-Dark.svg" width="55px"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" width="55px"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="55px"/>
 </div>
 
