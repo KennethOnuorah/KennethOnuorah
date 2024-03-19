@@ -24,6 +24,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="55px"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="55px"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Light.svg" width="55px"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Light.svg" width="55px"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="55px"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="55px"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elasticsearch-Dark.svg" width="55px"/>
