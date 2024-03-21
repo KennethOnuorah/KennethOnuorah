@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on: my [blog](https://github.com/KennethOnuorah/next-blog-website) and [bookstore](https://github.com/KennethOnuorah/bookworm) websites 
 - 🌱 I’m currently learning: Prisma △ and Cypress 🌲
 
-<h2>Languages & Technologies ⚙️ 🛠️</h2>
+<h2>Languages & Technologies ⚙️🛠️</h2>
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="55px"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="55px"/>
