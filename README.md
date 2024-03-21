@@ -49,7 +49,6 @@
     <img src="https://img.shields.io/badge/-kenneth4832@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kenneth4832@gmail.com"/>
   </a>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
